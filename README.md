@@ -1,4 +1,4 @@
-# IT Audit — Portfolio Project
+# IT Audit — SOC 2 ITGC Readiness Assessment
 
 A demonstration IT General Controls (ITGC) audit, built to show working knowledge of the SOC 2 audit lifecycle: scoping, control testing, findings/risk rating, and reporting.
 
@@ -11,7 +11,6 @@ A demonstration IT General Controls (ITGC) audit, built to show working knowledg
 | File | Description |
 |---|---|
 | `SOC2_ITGC_Audit_Report.docx` | Formal audit report — executive summary, scope, methodology, system description, results by TSC category, 5 detailed findings with risk ratings, and overall opinion. |
-| `SOC2_ITGC_Audit_Report.pdf` | PDF version for quick preview without opening Word. |
 | `SOC2_ITGC_Controls_Testing_Workbook.xlsx` | Working papers — 22 tested controls (CC1–CC9, A1, C1), a risk & findings log, and a live summary dashboard (pass rate, findings by risk/status). |
 
 ## Approach
@@ -28,6 +27,10 @@ A demonstration IT General Controls (ITGC) audit, built to show working knowledg
 - Audit report writing for an executive/compliance-committee audience
 - Controls-testing workpaper structure (Excel, with conditional formatting and live summary formulas)
 - Mapping between SOC 2 TSC and NIST 800-53
+
+## Methodology note
+
+This deliverable was built with AI-assisted drafting (report structure, control language, and workbook formulas), then reviewed and customized by Carla Bee. It's intended to demonstrate applied understanding of SOC 2 ITGC audit methodology, not to represent a real client engagement or an independent auditor's attestation.
 
 ## About
 
